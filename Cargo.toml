@@ -1,0 +1,8 @@
+[package]
+name = "rust-ignore-repro"
+version = "0.0.1"
+authors = ["Daniel Wagner-Hall <dawagner@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ignore = "0.4.4"
